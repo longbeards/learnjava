@@ -1,5 +1,7 @@
 package com.longbeards.practice;
 
+import com.longbeards.practice.domain.ListNode;
+
 import java.math.BigInteger;
 
 public class AddTwoNumbers {
