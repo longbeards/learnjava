@@ -1,5 +1,6 @@
 package com.longbeards.practice;
 
+import com.longbeards.practice.domain.ListNode;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
